@@ -4,12 +4,15 @@
 
 I'm a **BSc (Hons) Computer Science** student with a passion for tech, coding, and innovation. I love exploring new technologies, solving problems, and constantly learning to improve my skills. While I focus on development, I’m also interested in **networking, mic (MC) work, and tech events**!  
 
-### 💻 What I’m into:  
-- 🌐 Exploring **networking** and how systems connect.  
-- 🎤 Get more involved in **tech events & public speaking**.   
-- 🎶 Music keeps me going—whether I’m coding or just chilling.  
-- 👩‍💻 Always excited to learn new **tech stacks** and contribute to projects.
-  
+## 💻 What I’m Into
+
+- 🌐 Deep diving into **networking**—how systems connect and communicate.  
+- 🎤 Looking to get more involved in **tech events, communities, and public speaking**.  
+- 🎶 Music fuels my coding and chill sessions.  
+- 👩‍💻 Always eager to explore new **tech stacks** and contribute to impactful projects.  
+
+🚀 I’m really interested in **tech events and communities**, and the **ICP Developer Community** seems like the perfect place to grow, network, and learn from like-minded people.  
+
 ## 📫 How to Reach Me  
 📧 **Email:** [binayabastola101@gmail.com](mailto:binayabastola101@gmail.com)  
 
